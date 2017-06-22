@@ -1,0 +1,11 @@
+{
+  "name": "webpack-dev-server-error-on-windows-bash",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
